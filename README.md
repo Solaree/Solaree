@@ -5,4 +5,4 @@
 - 🌐 Reach me: http://solar.web1337.net/
 - My discord: Solar#1845
 
-[![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solaree&theme=rose_pine&show_icons=true)
+[![Solar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solaree&theme=rose_pine&show_icons=true)]
